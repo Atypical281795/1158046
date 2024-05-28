@@ -1,0 +1,7 @@
+D:\OneDrive - 中山醫學大學\桌面\C#Test\C# 期末\1158046_3\1158046_3\bin\Debug\1158046_3.exe.config
+D:\OneDrive - 中山醫學大學\桌面\C#Test\C# 期末\1158046_3\1158046_3\bin\Debug\1158046_3.exe
+D:\OneDrive - 中山醫學大學\桌面\C#Test\C# 期末\1158046_3\1158046_3\bin\Debug\1158046_3.pdb
+D:\OneDrive - 中山醫學大學\桌面\C#Test\C# 期末\1158046_3\1158046_3\obj\Debug\1158046_3.csproj.AssemblyReference.cache
+D:\OneDrive - 中山醫學大學\桌面\C#Test\C# 期末\1158046_3\1158046_3\obj\Debug\1158046_3.csproj.CoreCompileInputs.cache
+D:\OneDrive - 中山醫學大學\桌面\C#Test\C# 期末\1158046_3\1158046_3\obj\Debug\1158046_3.exe
+D:\OneDrive - 中山醫學大學\桌面\C#Test\C# 期末\1158046_3\1158046_3\obj\Debug\1158046_3.pdb
